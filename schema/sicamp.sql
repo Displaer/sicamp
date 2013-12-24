@@ -105,7 +105,7 @@ CREATE TABLE IF NOT EXISTS `tbl_admin` (
 --
 
 INSERT INTO `tbl_admin` (`id`, `login`, `password`, `active`) VALUES
-(1, 'suhrob', '21667344ecd2e66248e0a9da48948dee', 1);
+(1, 'demo', 'c514c91e4ed341f263e458d44b3bb0a7', 1);
 
 -- --------------------------------------------------------
 

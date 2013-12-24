@@ -18,8 +18,8 @@ System for monitoring activities of SICamp
 3. Change configuration in /lib/config.php
 last. Type address in browser and press Enter
 
-  For Administrate:
-	login: suhrob;
-	password: hujand;
+for administative:
+	login:demo;
+	password:demo;
 
 That's all.
