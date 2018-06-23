@@ -1,15 +1,12 @@
 sicamp
 ======
 
-System for monitoring activities of SICamp
+**System for monitoring activities of SICamp
+Web app for monitoring result of activity in SICamp
 
-
-	Web app for monitoring result of activity in SICamp
 /**
-* @copyright: Ccs Dilshod(https://www.facebook.com/ccs.dilshod)
 * @copyright:   prodilshod@gmail.com
 */
-
 
 /////////////////////////////INSTALATION//////////////////////////////////////
 
